@@ -1,2 +1,2 @@
 # DesignPatterns_CPP
-DesignPatterns realize by c++
+DesignPatterns realize by c++ and python
